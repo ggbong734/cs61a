@@ -1,4 +1,4 @@
-# UC Berkeley CS61A - Structure and Interpretation of Computer Programs 
+# UC Berkeley CS 61A - Structure and Interpretation of Computer Programs 
 (Fall 2018 coursework)
 
 CS 61A covers a series of techniques for controlling program complexity, including functional programming, data abstraction, and object-oriented programming. The class concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware. The class teaches about programming in general, rather than about one particular programming language.
