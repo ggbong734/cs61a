@@ -1,6 +1,6 @@
 # UC Berkeley CS 61A - Structure and Interpretation of Computer Programs 
-*(Fall 2018 coursework)* 
-Instructor: John DeNero
+*(Fall 2018 coursework)
+Instructor: John DeNero*
 
 CS 61A covers a series of techniques for controlling program complexity, including functional programming, data abstraction, and object-oriented programming. 
 
