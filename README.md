@@ -5,6 +5,6 @@ CS 61A covers a series of techniques for controlling program complexity, includi
 
 The class concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware. 
 
-CS 61A primarily uses the Python 3 programming language; the Scheme programming language and the Structured Query Language (SQL) are explored in the latter half of the course. The course enables students to self-study by employing the use of the [OK autograder](https://okpy.org/) for coding assignments and projects.
+CS 61A primarily uses the *Python 3* programming language. The *Scheme* programming language and the Structured Query Language (*SQL*) are explored in the latter half of the course. The course enables students to self-study by employing the use of the [OK autograder](https://okpy.org/) for coding assignments and projects.
 
 Course website: https://inst.eecs.berkeley.edu/~cs61a/fa18/
